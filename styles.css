@@ -1,0 +1,59 @@
+
+
+#parrafo {
+  text-align: center;
+
+}
+
+#timelines {
+ text-align: center;
+ margin-top: 4rem;
+}   
+
+p {
+  display:inline-block;
+  font-size: 20px;
+
+}
+
+
+#centering {
+  text-align: center;
+  margin-top: 5rem;
+}
+
+#titulofont {
+  font-family: 'Sriracha', cursive;
+  text-align: center;
+  font-size: 70px;
+  color: #F2B616;
+}
+
+#trains {
+  font-family: 'Sriracha', cursive;
+  color: #F2B616;
+  font-size: 40px;
+ 
+}
+
+
+
+.descipcionfont {
+  font-family: 'Oswald', sans-serif;
+}
+
+@media only screen and (min-width: 1200px) {
+  html {
+    background-image: url(img/675858.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+
+@media only screen and (max-width: 1199px) {
+  html {
+    background-image: url(img/cropped-750-1334-675858.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
